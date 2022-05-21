@@ -1,5 +1,5 @@
 # MachineLearning
-👨‍💻 Machine Learning Repo
+🤖👨‍💻 Machine Learning Repo
 
 # Modelo de Predicción (Clasificación) del estado de solicitudes de Préstamos
 
